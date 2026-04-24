@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Younes&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Full+Stack%20Developer&descAlignY=58&descColor=a78bfa)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Younes&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Full+Stack+Developer&descAlignY=58&descColor=a78bfa)
 
 <div align="center">
 
@@ -13,17 +13,16 @@ const younes = {
   role:      "full stack developer",
   frontend:  ["React", "Astro", "Tailwind CSS"],
   backend:   ["Node.js", "Express", "PostgreSQL"],
-  deploy:    ["Vercel", "Hostinger"],
-  currently: "building real projects, one commit at a time",
+  deploy:    ["Vercel"],
+  currently: "building marketing sites & web apps for French businesses",
   mindset:   "understand the system, not just the syntax",
-  available: false,
+  available: true,
 };
 ```
 
 <br/>
 
 <div align="center">
-
 <table>
   <tr>
     <td align="center" width="200px">
@@ -44,8 +43,27 @@ const younes = {
     </td>
   </tr>
 </table>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 🚀 Live Projects
+
+*Real client work — built, deployed, and running in production.*
+
+| Project | What it is | Stack | Live |
+|--------|-----------|-------|------|
+| **Serrurier Minute** | Emergency locksmith · Paris & Île-de-France | Astro · Tailwind · Vercel | [→ Visit](https://serrurier-minute.fr/) |
+| **Docteur Plomberie** | Plumbing services landing page · Paris | Astro · Tailwind · Vercel | [→ Visit](https://docteurplomberie.com/) |
+| **Mat Enseignes** | Signage & storefront company · France | Astro · Tailwind · Vercel | [→ Visit](https://matenseignes.fr/) |
 
 </div>
+
+---
 
 <br/>
 
