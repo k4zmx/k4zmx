@@ -14,6 +14,7 @@ const younes = {
   frontend:  ["React", "Astro", "Tailwind CSS"],
   backend:   ["Node.js", "Express", "PostgreSQL"],
   deploy:    ["Vercel"],
+  host:      ["Hostinger"],
   currently: "building marketing sites & web apps for French businesses",
   mindset:   "understand the system, not just the syntax",
   available: true,
