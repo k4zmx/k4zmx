@@ -57,9 +57,9 @@ const younes = {
 
 | Project | What it is | Stack | Live |
 |--------|-----------|-------|------|
-| **Serrurier Minute** | Emergency locksmith · Paris & Île-de-France | Astro · Tailwind · Vercel | [→ Visit](https://serrurier-minute.fr/) |
-| **Docteur Plomberie** | Plumbing services landing page · Paris | Astro · Tailwind · Vercel | [→ Visit](https://docteurplomberie.com/) |
-| **Mat Enseignes** | Signage & storefront company · France | Astro · Tailwind · Vercel | [→ Visit](https://matenseignes.fr/) |
+| **Serrurier Minute** | Emergency locksmith · Paris & Île-de-France | Astro · Tailwind · Hostinger | [→ Visit](https://serrurier-minute.fr/) |
+| **Docteur Plomberie** | Plumbing services landing page · Paris | Astro · Tailwind · Hostinger | [→ Visit](https://docteurplomberie.com/) |
+| **Mat Enseignes** | Signage & storefront company · France | Astro · Tailwind · Hostinger | [→ Visit](https://matenseignes.fr/) |
 
 </div>
 
