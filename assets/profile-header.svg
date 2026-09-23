@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="158" viewBox="0 0 680 158" role="img" aria-labelledby="title desc">
+  <title id="title">Younes Codes</title>
+  <desc id="desc">Full-stack web and mobile developer based in Algiers, Algeria.</desc>
+  <rect x=".5" y=".5" width="679" height="157" rx="16" fill="#202122" stroke="#393d3c"/>
+  <path d="M315 27h50" stroke="#9fc9c3" stroke-width="3" stroke-linecap="round"/>
+  <text x="340" y="76" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="36" fill="#f3f1ec">Younes Codes</text>
+  <text x="340" y="108" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#c9e5df">Full-stack web &amp; mobile developer</text>
+  <text x="340" y="135" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#aeb3b1">Algiers, Algeria</text>
+</svg>

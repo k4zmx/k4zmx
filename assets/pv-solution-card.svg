@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="192" viewBox="0 0 680 192" role="img" aria-labelledby="title desc">
+  <title id="title">PV Solution — Full-stack CRM</title>
+  <desc id="desc">A web application with subscriptions, services, and multiple user roles.</desc>
+  <rect x=".5" y=".5" width="679" height="191" rx="14" fill="#242c2a" stroke="#3b4b45"/>
+  <text x="28" y="36" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2" fill="#9fc9c3">FULL-STACK WEB APPLICATION</text>
+  <text x="28" y="81" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#f3f1ec">PV Solution</text>
+  <text x="28" y="112" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#aeb3b1">A CRM for a traffic-fine dispute service.</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#c9e5df">
+    <rect x="28" y="136" width="124" height="30" rx="6" fill="#303c39"/>
+    <text x="90" y="156" text-anchor="middle">Subscriptions</text>
+    <rect x="162" y="136" width="94" height="30" rx="6" fill="#303c39"/>
+    <text x="209" y="156" text-anchor="middle">Services</text>
+    <rect x="266" y="136" width="156" height="30" rx="6" fill="#303c39"/>
+    <text x="344" y="156" text-anchor="middle">Multiple user roles</text>
+  </g>
+  <path d="M622 43h20v20m0-20-25 25" fill="none" stroke="#9fc9c3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
