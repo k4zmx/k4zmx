@@ -1,18 +1,26 @@
-<p align="center">
-  <img src="./assets/owl-desk.webp" width="260" alt="Younes's owl mascot working at a laptop beside a cup of tea" />
+<img align="right" src="./assets/owl-desk.webp" width="180" alt="Younes's owl mascot working at a laptop beside a cup of tea" />
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/wordmark.svg" />
+    <img src="./assets/wordmark-light.svg" width="260" alt="Younes Codes" />
+  </picture>
 </p>
 
-<p align="center">
-  <img src="./assets/profile-header.svg" width="680" alt="Younes Codes — Full-stack web and mobile developer. Algiers, Algeria." />
+<p>
+  Full-stack web &amp; mobile developer<br />
+  <sub>Algiers, Algeria · Arabic / French / English</sub>
 </p>
 
-<p align="center">
+<p>
   <a href="https://younesdev.pages.dev"><img src="./assets/portfolio.svg" height="36" alt="View my portfolio" /></a>
   &nbsp;
   <a href="mailto:youneskezzim0@gmail.com"><img src="./assets/contact.svg" height="36" alt="Email me" /></a>
 </p>
 
-<p align="center"><sub>Open for freelance projects · Remote · Arabic / French / English</sub></p>
+<p><sub>Open for freelance projects · Remote</sub></p>
+
+<br clear="both" />
 
 ### Hello, I'm Younes.
 
@@ -25,16 +33,14 @@ I like understanding what I ship, and getting a little better at it every day.
 ### Featured project
 
 <a href="https://pv-solution.com/">
-  <img src="./assets/pv-solution-card.svg" width="680" alt="PV Solution — Full-stack CRM web app with subscriptions, services, and multiple user roles." />
+  <img src="./assets/pv-solution-card.svg" width="480" alt="PV Solution — Full-stack CRM web app with subscriptions, services, and multiple user roles." />
 </a>
 
 **[PV Solution](https://pv-solution.com/)** is a substantial full-stack CRM web application I built for a traffic-fine dispute service. The project brings together **subscription-based services and multiple user roles**, alongside its public-facing website.
 
 ### My toolkit
 
-**Frontend** · JavaScript, React, Next.js, HTML, CSS, Tailwind CSS  
-**Backend** · Node.js, Express, NestJS, PostgreSQL, SQL  
-**Mobile & deployment** · Expo, Cloudflare, Hostinger VPS
+<img src="./assets/stack.svg" width="640" alt="Frontend: JavaScript, React, Next.js, HTML, CSS, Tailwind CSS. Backend: Node.js, Express, NestJS, PostgreSQL and SQL. Mobile and deployment: Expo, Cloudflare, Hostinger VPS." />
 
 ### More client work
 
