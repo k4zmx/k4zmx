@@ -1,87 +1,44 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Younes&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Full+Stack+Developer&descAlignY=58&descColor=a78bfa)
+<p align="center">
+  <img src="./assets/owl-desk.webp" width="260" alt="Younes's owl mascot working at a laptop beside a cup of tea" />
+</p>
 
-<div align="center">
+<h1 align="center">Younes Codes</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;PERN+Stack+%7C+React+%7C+Astro;Building+Real+Things%2C+One+Commit+At+A+Time;Always+Learning%2C+Always+Shipping)](https://git.io/typing-svg)
+<p align="center">
+  Full-stack web &amp; mobile developer<br />
+  <sub>Algiers, Algeria · Arabic / French / English</sub>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://younesdev.pages.dev"><img src="./assets/portfolio.svg" height="36" alt="View my portfolio" /></a>
+  &nbsp;
+  <a href="mailto:youneskezzim0@gmail.com"><img src="./assets/contact.svg" height="36" alt="Email me" /></a>
+</p>
 
-<br/>
+<p align="center"><sub>Open for freelance projects · Remote</sub></p>
 
-```typescript
-const younes = {
-  role:      "full stack developer",
-  frontend:  ["React", "Astro", "Tailwind CSS"],
-  backend:   ["Node.js", "Express", "PostgreSQL"],
-  deploy:    ["Vercel"],
-  host:      ["Hostinger"],
-  currently: "building marketing sites & web apps for French businesses",
-  mindset:   "understand the system, not just the syntax",
-  available: true,
-};
-```
+### Hello, I'm Younes.
 
-<br/>
+I've been around computers since I was three. Now I build websites and apps for people and businesses, from the interface to the backend.
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="200px">
-      <sub><b>⚙️ Backend</b></sub><br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark" />
-    </td>
-    <td align="center" width="200px">
-      <sub><b>🎨 Frontend</b></sub><br><br>
-      <img src="https://skillicons.dev/icons?i=react,astro,tailwind&theme=dark" />
-    </td>
-    <td align="center" width="200px">
-      <sub><b>🚀 Deploy</b></sub><br><br>
-      <img src="https://skillicons.dev/icons?i=vercel,vite&theme=dark" />
-    </td>
-    <td align="center" width="200px">
-      <sub><b>🛠️ Tools</b></sub><br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-    </td>
-  </tr>
-</table>
-</div>
+I'm a computer science student at **USTHB**, working with a French agency and taking on freelance projects. Most of my work is on the web: commercial websites, landing pages for Google Ads campaigns, and web applications. I'm also building mobile apps with Expo.
 
-<br/>
+I like understanding what I ship, and getting a little better at it every day.
 
----
+### My toolkit
 
-<div align="center">
+**Frontend** · JavaScript, React, Next.js, HTML, CSS, Tailwind CSS  
+**Backend** · Node.js, Express, NestJS, PostgreSQL, SQL  
+**Mobile & deployment** · Expo, Cloudflare, Hostinger VPS
 
-### 🚀 Live Projects
+### Selected work
 
-*Real client work — built, deployed, and running in production.*
+- **[The Driver](https://thedriver.fr/)** — A website for a Paris chauffeur service.
+- **[PV Solution](https://pv-solution.com/)** — An online traffic-fine dispute service.
+- **[Neoforma Conseil](https://neoformaconseil.fr/)** — A website for professional training programmes.
+- **[California Sun](https://californiasun.fr/)** — A website for the California Sun salons.
+- **[Serrurier Minute](https://serrurier-minute.fr/)** — A landing page for local locksmith services.
 
-| Project | What it is | Stack | Live |
-|--------|-----------|-------|------|
-| **Serrurier Minute** | Emergency locksmith · Paris & Île-de-France | Astro · Tailwind · Hostinger | [→ Visit](https://serrurier-minute.fr/) |
-| **Docteur Plomberie** | Plumbing services landing page · Paris | Astro · Tailwind · Hostinger | [→ Visit](https://docteurplomberie.com/) |
-| **Mat Enseignes** | Signage & storefront company · France | Astro · Tailwind · Hostinger | [→ Visit](https://matenseignes.fr/) |
+### Let's build something together.
 
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=k4zmx&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/k4zmx/k4zmx/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<br/>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+Have a website or app in mind? **[Send me an email](mailto:youneskezzim0@gmail.com)** — I'd love to hear about it.
