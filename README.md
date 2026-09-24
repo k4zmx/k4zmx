@@ -13,6 +13,8 @@
   <a href="mailto:youneskezzim0@gmail.com"><img src="./assets/contact.svg" height="36" alt="Email me" /></a>
 </p>
 
+> Building **[Crino](https://crino-agency.vercel.app/en)** — a product studio for web apps, SaaS, and mobile.
+
 Full-stack developer focused on **CRM platforms, subscription-based services, and commercial websites**. Freelance experience since 2023; currently collaborating with a French agency.
 
 ### Featured project
