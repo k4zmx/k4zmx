@@ -1,41 +1,25 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/intro.svg" />
-    <img align="middle" src="./assets/intro-light.svg" width="340" alt="Younes Codes. Full-stack web and mobile developer. Algiers, Algeria. Arabic, French and English. Open to freelance and remote opportunities." />
-  </picture>
-  &nbsp;
-  <img align="middle" src="./assets/owl-desk.webp" width="180" alt="Owl mascot working at a laptop" />
-</p>
+<img src="assets/hero.png" alt="Younes Kezzim. Full-stack developer. I build apps from idea to launch: web, mobile and desktop. Algiers, Algeria. Arabic, French, English. Open to work." width="100%">
 
 <p align="center">
-  <a href="https://younesdev.pages.dev"><img src="./assets/portfolio.svg" height="36" alt="View my portfolio" /></a>
+  <a href="https://younescodes.com"><img src="assets/btn-portfolio.png" height="40" alt="Portfolio"></a>
   &nbsp;
-  <a href="mailto:youneskezzim0@gmail.com"><img src="./assets/contact.svg" height="36" alt="Email me" /></a>
+  <a href="mailto:youneskezzim0@gmail.com"><img src="assets/btn-email.png" height="40" alt="Email"></a>
+  &nbsp;
+  <a href="https://crinostudio.com"><img src="assets/btn-crino.png" height="40" alt="Crino Studio"></a>
 </p>
 
-> Building **[Crino](https://crino-agency.vercel.app/en)** — a product studio for web apps, SaaS, and mobile.
+<a href="https://crinostudio.com"><img src="assets/now.png" alt="Now: founder of Crino Studio, a product studio. Our apps first. Then yours. Apps, sites and SaaS, built end to end. crinostudio.com" width="100%"></a>
 
-Full-stack developer focused on **CRM platforms, subscription-based services, and commercial websites**. Freelance experience since 2023; currently collaborating with a French agency.
+<br>
 
-### Featured project
+<img src="assets/work.png" alt="Selected work, built for clients. Featured: PV Solution, a CRM and public website for an online traffic-fine dispute service, front end and back end, with subscriptions and user roles. Also The Driver (chauffeur service, Paris), Neoforma Conseil (training), California Sun (beauty salon) and Serrurier Minute (locksmith landing page)." width="100%">
 
-<a href="https://pv-solution.com/">
-  <img src="./assets/pv-solution-card.svg" width="480" alt="PV Solution — Full-stack CRM web app with subscriptions, services, and multiple user roles." />
-</a>
+<p align="center">
+  <a href="https://pv-solution.com/"><b>pv-solution.com</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://thedriver.fr/">thedriver.fr</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://neoformaconseil.fr/">neoformaconseil.fr</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://californiasun.fr/">californiasun.fr</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://serrurier-minute.fr/">serrurier-minute.fr</a>
+</p>
 
-**[PV Solution](https://pv-solution.com/)** — Frontend and backend development of a CRM for traffic-fine dispute services, combining **subscriptions, multiple user roles, and a public-facing website**.
+<img src="assets/stack.png" alt="Stack. Frontend: TypeScript, React, Next.js, Tailwind. Backend: Node.js, NestJS, Express, PostgreSQL, Prisma. Mobile and desktop: Expo, Electron. Ship: Vercel, Cloudflare, Hostinger, Stripe." width="100%">
 
-### Technical stack
+<br>
 
-<img src="./assets/stack.svg" width="640" alt="Frontend: JavaScript, React, Next.js, HTML, CSS, Tailwind CSS. Backend: Node.js, Express, NestJS, PostgreSQL and SQL. Mobile and deployment: Expo, Cloudflare, Hostinger VPS." />
-
-### Selected client work
-
-- **[The Driver](https://thedriver.fr/)** — Commercial website for a Paris chauffeur service.
-- **[Neoforma Conseil](https://neoformaconseil.fr/)** — Professional training website, from course discovery to enquiry.
-- **[California Sun](https://californiasun.fr/)** — Commercial website for a salon business.
-- **[Serrurier Minute](https://serrurier-minute.fr/)** — Lead-generation landing page for local locksmith services.
-
-### Contact
-
-For freelance projects and development opportunities: **[youneskezzim0@gmail.com](mailto:youneskezzim0@gmail.com)**.
+<a href="mailto:youneskezzim0@gmail.com"><img src="assets/cta.png" alt="Work with me. Got a project? Write me, I reply fast. To: Younes Kezzim, youneskezzim0@gmail.com, Algiers, Algeria. Websites, web apps, mobile and desktop." width="100%"></a>
